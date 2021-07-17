@@ -29,7 +29,7 @@ The Seasons of Code project [Language Detection](https://github.com/Tanisha2626/
 ## Usage
 
 Run the entire code in Google Collab and upload the appropiate data set or images attached with the code for the code to function properly.
-Follow the instructions mentioned in the commented section at the end to detect the language of your own text or image :)
+Follow the instructions mentioned in the commented section at the end of project notebook file to detect the language of your own text or image :)
 
 
 ## Acknowledgements
